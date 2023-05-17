@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap.Mocking.Domain", "Tap.Mocking.Domain\Tap.Mocking.Domain.csproj", "{A1BA1BD2-9130-43B7-BA20-AA486FB9F26E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tap.Mocking.Repository", "Tap.Mocking.Repository\Tap.Mocking.Repository.csproj", "{B7EAFC70-E3E3-432D-BB71-B19A51364108}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BA1BD2-9130-43B7-BA20-AA486FB9F26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BA1BD2-9130-43B7-BA20-AA486FB9F26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BA1BD2-9130-43B7-BA20-AA486FB9F26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BA1BD2-9130-43B7-BA20-AA486FB9F26E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EAFC70-E3E3-432D-BB71-B19A51364108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EAFC70-E3E3-432D-BB71-B19A51364108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EAFC70-E3E3-432D-BB71-B19A51364108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EAFC70-E3E3-432D-BB71-B19A51364108}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A5ABE3-8B4C-406F-AB1C-1B9D3DE3BBEB}
+	EndGlobalSection
+EndGlobal
