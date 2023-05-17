@@ -1,0 +1,54 @@
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.csproj.AssemblyReference.cache
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.AssemblyInfoInputs.cache
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.AssemblyInfo.cs
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.csproj.CoreCompileInputs.cache
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money_v3.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.RazorAssemblyInfo.cache
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.RazorAssemblyInfo.cs
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Client.staticwebassets.runtime.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Server.staticwebassets.runtime.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Server.exe
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Server.deps.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Server.runtimeconfig.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Server.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Server.pdb
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money v3.Shared.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Client.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money_v3.Client.pdb
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\bin\Debug\net7.0\Tap.Money v3.Shared.pdb
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets\msbuild.Tap.Money_v3.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Tap.Money_v3.Server.props
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tap.Money_v3.Server.props
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tap.Money_v3.Server.props
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\scopedcss\bundle\Tap.Money_v3.Server.styles.css
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.csproj.CopyComplete
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money_v3.Server.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\refint\Tap.Money_v3.Server.dll
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money_v3.Server.pdb
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\Tap.Money v3.Server.genruntimeconfig.cache
+C:\Users\edira\source\repos\Tap.Money v2\Tap.Money\Tap.Money v3\Tap.Money v3\Server\obj\Debug\net7.0\ref\Tap.Money_v3.Server.dll

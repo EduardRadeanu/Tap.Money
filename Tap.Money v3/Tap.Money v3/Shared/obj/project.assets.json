@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj",
       "projectName": "Tap.Money v3.Shared",
-      "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj",
+      "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj",
       "packagesPath": "C:\\Users\\edira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edira\\AppData\\Roaming\\NuGet\\NuGet.Config",

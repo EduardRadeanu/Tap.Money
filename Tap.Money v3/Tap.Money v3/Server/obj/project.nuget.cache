@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V8eVLsB7Us/ttswbr7G/NDdphWGpftVyXlC8tMkqQbQQzCtVCU4mOkxb/wgkGwszzGH79r02vXkLIHC3SsKqbg==",
+  "dgSpecHash": "KMi8oXM8JglhT9PJPdLkGIJD3Ah27CDI1VN4LO8u8dnRxiOpqg/l+JwXJ0x0Mz6BC+eXgyhs3g4Sbw+4gI0BRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Server\\Tap.Money v3.Server.csproj",
+  "projectFilePath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Server\\Tap.Money v3.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edira\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.4\\microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",
     "C:\\Users\\edira\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.4\\microsoft.aspnetcore.components.7.0.4.nupkg.sha512",

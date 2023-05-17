@@ -1271,11 +1271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Server\\Tap.Money v3.Server.csproj",
+      "projectUniqueName": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Server\\Tap.Money v3.Server.csproj",
       "projectName": "Tap.Money_v3.Server",
-      "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Server\\Tap.Money v3.Server.csproj",
+      "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Server\\Tap.Money v3.Server.csproj",
       "packagesPath": "C:\\Users\\edira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Server\\obj\\",
+      "outputPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1292,11 +1292,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Client\\Tap.Money v3.Client.csproj": {
-              "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Client\\Tap.Money v3.Client.csproj"
+            "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Client\\Tap.Money v3.Client.csproj": {
+              "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Client\\Tap.Money v3.Client.csproj"
             },
-            "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj": {
-              "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj"
+            "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj": {
+              "projectPath": "C:\\Users\\edira\\source\\repos\\Tap.Money v2\\Tap.Money\\Tap.Money v3\\Tap.Money v3\\Shared\\Tap.Money v3.Shared.csproj"
             }
           }
         }
