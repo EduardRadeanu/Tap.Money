@@ -1,0 +1,49 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = TAPPPPPP.Client
+build_property.RootNamespace = TAPPPPPP.Client
+build_property.ProjectDir = C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-l73mfkesd3
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/Shared/Functionalitate.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZ1bmN0aW9uYWxpdGF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-obf4tlxdxc
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0qbo22qz7i
+
+[C:/Users/Cosmin/source/repos/TAP.MONEYYYY/Tap.Money/Tap.Money v3/TAPPPPPP/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-kjcjmvw3lc

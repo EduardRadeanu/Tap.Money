@@ -1,0 +1,36 @@
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.deps.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.csproj.AssemblyReference.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.AssemblyInfoInputs.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.AssemblyInfo.cs
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.csproj.CoreCompileInputs.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\refint\TAPPPPPP.Shared.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\ref\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.deps.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.AssemblyInfoInputs.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.AssemblyInfo.cs
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\refint\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Shared\obj\Debug\net7.0\ref\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.deps.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\bin\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.csproj.AssemblyReference.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.AssemblyInfoInputs.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.AssemblyInfo.cs
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\refint\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Shared\obj\Debug\net7.0\ref\TAPPPPPP.Shared.dll

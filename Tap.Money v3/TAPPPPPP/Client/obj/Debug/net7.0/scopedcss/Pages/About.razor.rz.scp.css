@@ -1,0 +1,107 @@
+
+
+.contact-section[b-l73mfkesd3] {
+    background-color:antiquewhite;
+    //border: 2px solid black;
+    border-radius:20px;
+    padding:10px;
+    width: 50 %;
+    height:10%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.contact-info[b-l73mfkesd3] {
+  padding:35px;
+  font-size:20px;
+  text-decoration:bold;
+   
+}
+
+.contact-info i[b-l73mfkesd3]{
+    margin-right: 30px;
+    font-size: 25px;
+}
+
+.contact-form[b-l73mfkesd3]{
+   max-width:700px;
+   margin-right:50px;
+   
+}
+
+.contact-info[b-l73mfkesd3], .contact-form[b-l73mfkesd3]{
+   flex:1;
+}
+
+    .contact-form h1[b-l73mfkesd3] {
+        color: black;
+        text-align: center;
+        font-size: 40px;
+        text-transformation: uppercase;
+        font-weight: bold;
+        margin-bottom: 25px;
+    }
+
+.contact-form .text-box[b-l73mfkesd3]{
+    background:#000;
+    color:#fff;
+    border:none;
+    
+    width:100%;
+    height:50px;
+    padding:12px;
+    font-size:15 px;
+    border-radius: 5px;
+    box-shadow:0 1px 1px rgba( 0,0,0,0.1);
+    margin-bottom:20px;
+    opacity:0.9;
+
+}
+
+.contact-form .text-box:first-child[b-l73mfkesd3]{
+    margin-right:15px;
+}
+
+.contact-form textarea[b-l73mfkesd3]{
+    background:#000;
+    color:#fff;
+    border:none;
+    width:100%;
+    padding:12px;
+    font-size:15px;
+    min-height:200px;
+    max-height:400px;
+    resize :vertical;
+    border-radius:5px;
+    box-shadow:0 1px 1px rgba(0,0,0,0.1);
+    margin-bottom:20px;
+    opacity:0.9;
+}
+
+.contact-form .send-btn[b-l73mfkesd3]{
+
+    float:right;
+    background: #000;
+    color:#fff;
+    border:none;
+    width:120px;
+    height:40px;
+    font-weight:600;
+    text-form:uppercase;
+    letter-spacing:2px;
+    border-radius:5px;
+
+
+}
+
+
+
+.studenti[b-l73mfkesd3] {
+    background-color: antiquewhite;
+  //  border: 2px solid black;
+  border-radius:20px;
+    padding: 30px;
+    display: flex;
+    margin-top: 110px;
+}

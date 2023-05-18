@@ -1,0 +1,162 @@
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.staticwebassets.runtime.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.staticwebassets.runtime.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.exe
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.deps.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.runtimeconfig.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.pdb
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.pdb
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.AssemblyReference.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.AssemblyInfoInputs.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.AssemblyInfo.cs
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.CoreCompileInputs.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.RazorAssemblyInfo.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.RazorAssemblyInfo.cs
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.TAPPPPPP.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.TAPPPPPP.Server.props
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TAPPPPPP.Server.props
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TAPPPPPP.Server.props
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\scopedcss\bundle\TAPPPPPP.Server.styles.css
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.CopyComplete
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\refint\TAPPPPPP.Server.dll
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.pdb
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.genruntimeconfig.cache
+C:\Users\edira\source\repos\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\ref\TAPPPPPP.Server.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.staticwebassets.runtime.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.staticwebassets.runtime.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.exe
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.deps.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.runtimeconfig.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.pdb
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.pdb
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.AssemblyInfoInputs.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.AssemblyInfo.cs
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.RazorAssemblyInfo.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.RazorAssemblyInfo.cs
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.TAPPPPPP.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.TAPPPPPP.Server.props
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TAPPPPPP.Server.props
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TAPPPPPP.Server.props
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\scopedcss\bundle\TAPPPPPP.Server.styles.css
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.CopyComplete
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\refint\TAPPPPPP.Server.dll
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.pdb
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.genruntimeconfig.cache
+C:\Users\Cosmin\Desktop\TAPPPPPP\TAPPPPPP\Server\obj\Debug\net7.0\ref\TAPPPPPP.Server.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.staticwebassets.runtime.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.staticwebassets.runtime.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.exe
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.deps.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.runtimeconfig.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Server.pdb
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Shared.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Client.pdb
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\bin\Debug\net7.0\TAPPPPPP.Shared.pdb
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.AssemblyReference.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.AssemblyInfoInputs.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.AssemblyInfo.cs
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.RazorAssemblyInfo.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.RazorAssemblyInfo.cs
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.TAPPPPPP.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.TAPPPPPP.Server.props
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TAPPPPPP.Server.props
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TAPPPPPP.Server.props
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\scopedcss\bundle\TAPPPPPP.Server.styles.css
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.csproj.CopyComplete
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\refint\TAPPPPPP.Server.dll
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.pdb
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\TAPPPPPP.Server.genruntimeconfig.cache
+C:\Users\Cosmin\source\repos\TAP.MONEYYYY\Tap.Money\Tap.Money v3\TAPPPPPP\Server\obj\Debug\net7.0\ref\TAPPPPPP.Server.dll

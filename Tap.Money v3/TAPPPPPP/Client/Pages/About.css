@@ -1,0 +1,21 @@
+﻿body {
+
+
+    min-height:100vh;
+    display: flex;
+    justify-content: center;
+    align-content-items:center;
+}
+.contact-section{
+    width : 100 % ;
+    display :flex;
+    justify-content :center;
+    align-items : center;
+}
+
+.contact-info span{
+    margin-right:20px;
+    font-size:25px;
+
+
+}

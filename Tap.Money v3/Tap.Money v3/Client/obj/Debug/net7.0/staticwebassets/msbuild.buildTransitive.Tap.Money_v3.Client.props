@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Tap.Money_v3.Client.props" />
-</Project>
