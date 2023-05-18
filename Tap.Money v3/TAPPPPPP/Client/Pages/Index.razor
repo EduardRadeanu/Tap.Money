@@ -1,7 +1,8 @@
 ﻿@page "/"
 @using TAPPPPPP.Shared
 @inject HttpClient Http
-
+@inject IJSRuntime JSRuntime
+@using Microsoft.JSInterop
 <PageTitle>Report Expenses</PageTitle>
 
 
@@ -19,7 +20,7 @@ else
 
     <button class="btn btn-primary" @onclick="AddExpense">Adaugă</button>
     <table class="table">
-        <!-- Codul pentru antetul tabelului -->
+
         <thead>
             <tr>
                 <th>Zi</th>
@@ -28,9 +29,9 @@ else
                 <th>An</th>
             </tr>
         </thead>
-        <!-- Codul pentru corpul tabelului -->
+
         <tbody>
-            <!-- Codul pentru fiecare rând al tabelului -->
+
             @foreach (var expense in expenses.Where(e => e.Descriere == "Cafea"))
             {
                 <tr>
@@ -40,7 +41,7 @@ else
                     <td>@expense.An</td>
                 </tr>
             }
-            <!-- Codul pentru adăugarea unei noi cheltuieli -->
+
             @if (!string.IsNullOrEmpty(moneySpent) && expenses.Any(e => e.Descriere == "Cafea"))
             {
                 var expense = expenses.First(e => e.Descriere == "Cafea");
@@ -52,10 +53,11 @@ else
     </table>
 
     <h3>Supermarket</h3>
-    <input type="text" @bind="@moneySpent" />
+    <input type="text" @bind="@moneySpentSupermarket" />
 
-    <button class="btn btn-primary" @onclick="AddExpense">Adaugă</button>
+    <button class="btn btn-primary" @onclick="AddExpenseSupermarket">Adaugă</button>
     <table class="table">
+
         <thead>
             <tr>
                 <th>Zi</th>
@@ -64,7 +66,9 @@ else
                 <th>An</th>
             </tr>
         </thead>
+
         <tbody>
+
             @foreach (var expense in expenses.Where(e => e.Descriere == "Supermarket"))
             {
                 <tr>
@@ -74,21 +78,23 @@ else
                     <td>@expense.An</td>
                 </tr>
             }
-            @if (!string.IsNullOrEmpty(moneySpent) && expenses.Any(e => e.Descriere == "Supermarket"))
+
+            @if (!string.IsNullOrEmpty(moneySpentSupermarket) && expenses.Any(e => e.Descriere == "Supermarket"))
             {
                 var expense = expenses.First(e => e.Descriere == "Supermarket");
                 <tr>
-                    <td colspan="4">@decimal.Parse(moneySpent)</td>
+                    <td colspan="4">@expense.Valoare</td>
                 </tr>
             }
         </tbody>
     </table>
 
+
     <h3>Combustibil</h3>
 
-    <input type="text" @bind="@moneySpent" />
+    <input type="text" @bind="@moneySpentCombustibil" />
 
-    <button class="btn btn-primary" @onclick="AddExpense">Adaugă</button>
+    <button class="btn btn-primary" @onclick="AddExpenseCombustibil">Adaugă</button>
     <table class="table">
         <thead>
             <tr>
@@ -108,20 +114,20 @@ else
                     <td>@expense.An</td>
                 </tr>
             }
-            @if (!string.IsNullOrEmpty(moneySpent) && expenses.Any(e => e.Descriere == "Combustibil"))
+            @if (!string.IsNullOrEmpty(moneySpentCombustibil) && expenses.Any(e => e.Descriere == "Combustibil"))
             {
                 var expense = expenses.First(e => e.Descriere == "Combustibil");
                 <tr>
-                    <td colspan="4">@decimal.Parse(moneySpent)</td>
+                    <td colspan="4">@expense.Valoare</td>
                 </tr>
             }
         </tbody>
     </table>
 
     <h3>Transport Public</h3>
-    <input type="text" @bind="@moneySpent" />
+    <input type="text" @bind="@moneySpentTransportPublic" />
 
-    <button class="btn btn-primary" @onclick="AddExpense">Adaugă</button>
+    <button class="btn btn-primary" @onclick="AddExpenseTransportPublic">Adaugă</button>
     <table class="table">
         <thead>
             <tr>
@@ -141,11 +147,11 @@ else
                     <td>@expense.An</td>
                 </tr>
             }
-            @if (!string.IsNullOrEmpty(moneySpent) && expenses.Any(e => e.Descriere == "Transport Public"))
+            @if (!string.IsNullOrEmpty(moneySpentTransportPublic) && expenses.Any(e => e.Descriere == "Transport Public"))
             {
                 var expense = expenses.First(e => e.Descriere == "Transport Public");
                 <tr>
-                    <td colspan="4">@decimal.Parse(moneySpent)</td>
+                    <td colspan="4">@expense.Valoare</td>
                 </tr>
             }
         </tbody>
@@ -155,6 +161,10 @@ else
 @code {
     private Expense[]? expenses;
     private string moneySpent;
+    private string moneySpentSupermarket;
+    private string moneySpentCombustibil;
+    private string moneySpentTransportPublic;
+
 
     protected override async Task OnInitializedAsync()
     {
@@ -172,42 +182,110 @@ else
                 Descriere = "Cafea",
                 Valoare = decimal.Parse(moneySpent)
             };
-        var expense_supermarket = new Expense
-        {
-                Zi = decimal.Parse(moneySpent),
-                Saptamana = 7 * decimal.Parse(moneySpent),
-                Luna = 30 * decimal.Parse(moneySpent),
-                An = 364 * decimal.Parse(moneySpent),
-                Descriere = "Supermarket",
-                Valoare = decimal.Parse(moneySpent)
-        };
 
         HttpResponseMessage response = await Http.PostAsJsonAsync("ReportExpenses", expense_cafea);
 
         if (response.IsSuccessStatusCode)
         {
             expenses = await response.Content.ReadFromJsonAsync<Expense[]>();
-            moneySpent = ""; // Resetează valoarea câmpului moneySpent după adăugarea cheltuielii
+            moneySpent = "";
 
-            // Actualizează componenta
+            StateHasChanged();
+
+
+        }
+        else
+        {
+            Console.WriteLine("Solicitarea a eșuat. Mesaj de eroare: " + response.StatusCode.ToString());
+            StateHasChanged();
+        }
+    }
+
+    private async Task AddExpenseSupermarket()
+    {
+        var expense_supermarket = new Expense
+            {
+                Zi = decimal.Parse(moneySpentSupermarket),
+                Saptamana = 7 * decimal.Parse(moneySpentSupermarket),
+                Luna = 30 * decimal.Parse(moneySpentSupermarket),
+                An = 364 * decimal.Parse(moneySpentSupermarket),
+                Descriere = "Supermarket",
+                Valoare = decimal.Parse(moneySpentSupermarket)
+            };
+
+
+
+        HttpResponseMessage response2 = await Http.PostAsJsonAsync("ReportExpenses", expense_supermarket);
+
+        if (response2.IsSuccessStatusCode)
+        {
+            expenses = await response2.Content.ReadFromJsonAsync<Expense[]>();
+            moneySpentSupermarket = "";
+
             StateHasChanged();
         }
         else
         {
-            // Tratează cazul în care solicitarea a eșuat
-            // Exemplu:
-            // Afișează un mesaj de eroare sau efectuează o altă acțiune
+            Console.WriteLine("Solicitarea a eșuat. Mesaj de eroare: " + response2.StatusCode.ToString());
+            StateHasChanged();
+        }
+    }
+    private async Task AddExpenseCombustibil()
+    {
+        var expense_combustibil = new Expense
+            {
+                Zi = decimal.Parse(moneySpentCombustibil),
+                Saptamana = 7 * decimal.Parse(moneySpentCombustibil),
+                Luna = 30 * decimal.Parse(moneySpentCombustibil),
+                An = 364 * decimal.Parse(moneySpentCombustibil),
+                Descriere = "Combustibil",
+                Valoare = decimal.Parse(moneySpentCombustibil)
+            };
+
+        HttpResponseMessage response3 = await Http.PostAsJsonAsync("ReportExpenses", expense_combustibil);
+
+        if (response3.IsSuccessStatusCode)
+        {
+            expenses = await response3.Content.ReadFromJsonAsync<Expense[]>();
+            moneySpentCombustibil = "";
+
+            StateHasChanged();
+        }
+        else
+        {
+            Console.WriteLine("Solicitarea a eșuat. Mesaj de eroare: " + response3.StatusCode.ToString());
+            StateHasChanged();
         }
     }
 
-    private int GetWeekNumber(DateTime date)
+    private async Task AddExpenseTransportPublic()
     {
-        // Obțineți numărul săptămânii pe baza datei
-        // Implementați logica necesară pentru a calcula numărul săptămânii
-        // Exemplu:
-        // return CultureInfo.InvariantCulture.Calendar.GetWeekOfYear(date, CalendarWeekRule.FirstDay, DayOfWeek.Monday);
+        var expense_transportPublic = new Expense
+            {
+                Zi = decimal.Parse(moneySpentTransportPublic),
+                Saptamana = 7 * decimal.Parse(moneySpentTransportPublic),
+                Luna = 30 * decimal.Parse(moneySpentTransportPublic),
+                An = 364 * decimal.Parse(moneySpentTransportPublic),
+                Descriere = "Transport Public",
+                Valoare = decimal.Parse(moneySpentTransportPublic)
+            };
 
-        // Acesta este un exemplu simplu care returnează o valoare statică pentru demonstrație
-        return 1;
+        HttpResponseMessage response4 = await Http.PostAsJsonAsync("ReportExpenses", expense_transportPublic);
+
+        if (response4.IsSuccessStatusCode)
+        {
+            expenses = await response4.Content.ReadFromJsonAsync<Expense[]>();
+            moneySpentTransportPublic = "";
+
+
+            StateHasChanged();
+        }
+        else
+        {
+            Console.WriteLine("Solicitarea a eșuat. Mesaj de eroare: " + response4.StatusCode.ToString());
+            StateHasChanged();
+        }
     }
+
+
 }
